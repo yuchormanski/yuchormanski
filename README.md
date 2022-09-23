@@ -1,4 +1,4 @@
-### Hi there 👋
+<! --### Hi there 👋 -->
 
 <!--
 **yuchormanski/yuchormanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* 👋 Hi, I’m Nikolay Yuchormanski
+* 👀 I’m interested in Front-end web development, Road cycling, Mucic
+* 🌱 I’m currently learning JavaScript Fundamentals in SoftUni.
+* 💞️ I’m looking to collaborate on Web / JS projects.
+* 📫 How to reach me: my email address is yuchormanski@gmail.com
+* ⚡ Fun fact: I have Hungarian Vizsla, It's fum and make me fun and happy!
