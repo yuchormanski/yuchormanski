@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 * 📫 How to reach me: my email address is yuchormanski@gmail.com
 * ⚡ Fun fact: I have Hungarian Vizsla, It's fum and make me fun and happy!
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11132923862&count={count})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862)
