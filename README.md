@@ -19,12 +19,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style = "margin-left: 20%;">
 * 👋 Hi, I’m Nikolay Yuchormanski
 * 👀 I’m interested in Front-end web development, Road cycling, Music
 * 🌱 I’m currently learning JavaScript Fundamentals in SoftUni.
 * 💞️ I’m looking to collaborate on Web / JS projects.
 * 📫 How to reach me: my email address is yuchormanski@gmail.com
-* ⚡ Fun fact: I have Hungarian Vizsla, It's fum and make me fun and happy!
+* ⚡ Fun fact: I have Hungarian Vizsla, It's fum and it makes me fun and happy!
+
+</style>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862)
 <!-- 
