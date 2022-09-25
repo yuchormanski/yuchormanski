@@ -28,9 +28,8 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: I have Hungarian Vizsla, It's fum and it makes me fun and happy!
 
 </style>
-<style = "margin-left: 50%;">
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862)
 <!-- 
   https://github.com/JeffreyCA/spotify-recently-played-readme
 -->
-</style>
+
