@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski)](https://github.com/yuchormanski/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuchormanski&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!-- 
