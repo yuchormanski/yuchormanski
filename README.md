@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * 💞️ I’m looking to collaborate on Web / JS projects.
 * 📫 How to reach me: my email address is yuchormanski@gmail.com
 * ⚡ Fun fact: I have Hungarian Vizsla, It's fun and it makes me fun and happy!
-* 😄 Do you want to play? - <a href="https://yuchormanski.github.io" target="blank">https://yuchormanski.github.io</a>
+* 😄 Do you want to play? - https://yuchormanski.github.io
 
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145](https://user-images.githubusercontent.com/693307/192850674-aa5afc80-2270-426b-90f4-040373119b29.svg)
