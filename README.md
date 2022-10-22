@@ -1,6 +1,7 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuchormanski&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuchormanski)](https://github.com/yuchormanski/github-profile-trophy)
 
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
   https://github.com/JeffreyCA/spotify-recently-played-readme
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski&show_icons=true)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
