@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MyLogo](https://github.com/yuchormanski/yuchormanski/blob/073593f17763364bfedd9cadf0ba66ee3b5c4d45/GitHubLogo.png)
+![MyLogo](https://github.com/yuchormanski/yuchormanski/blob/20cfd5405b09fbd479aab6489012d905f13d5d18/GitHubLogo2.png)
 
 * 👋 Hi, I’m Nikolay Yuchormanski
 * 👀 I’m interested in Front-end web development, Road cycling, Music
