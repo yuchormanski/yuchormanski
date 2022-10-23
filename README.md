@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuchormanski&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski&show_icons=true&theme=nord&hide_border=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuchormanski)](https://github.com/yuchormanski/github-profile-trophy)
-
+<div
+  [![trophy](https://github-profile-trophy.vercel.app/?username=yuchormanski)](https://github.com/yuchormanski/github-profile-trophy)
+</div>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="8%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="8%"/>
