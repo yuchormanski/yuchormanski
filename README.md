@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * 😄 Do you want to play? - https://yuchormanski.github.io
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuchormanski&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski&show_icons=true&theme=prussian)
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuchormanski)](https://github.com/yuchormanski/github-profile-trophy)
 
 
