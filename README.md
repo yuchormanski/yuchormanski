@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Rebelchris
+header](https://github.com/rebelchris/rebelchris/blob/master/assets/github-header.png)](https://daily-dev-tips.com)
 
 * 👋 Hi, I’m Nikolay Yuchormanski
 * 👀 I’m interested in Front-end web development, Road cycling, Music
