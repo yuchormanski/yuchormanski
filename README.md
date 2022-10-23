@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuchormanski&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski&show_icons=true&theme=nord&hide_border=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuchormanski&repo=github-readme-stats&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuchormanski&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuchormanski)](https://github.com/yuchormanski/github-profile-trophy)
 
 
