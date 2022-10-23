@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/693307/192854542-7823e3c3-9e93-4631-84a1-f2f64ef277da.svg)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862)
