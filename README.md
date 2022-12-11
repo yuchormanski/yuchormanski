@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862) -->
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862&width=600)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862&width=800)
