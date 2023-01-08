@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 
 * 👋 Hi, I’m Nikolay Yuchormanski
 * 👀 I’m interested in Front-end web development, Road cycling, Music
-* 🌱 I’m currently learning JavaScript Fundamentals in SoftUni.
+* 🌱 I’m currently learning JavaScript Advanced in SoftUni.
 * 💞️ I’m looking to collaborate on Web / JS projects.
 * 📫 How to reach me: my email address is yuchormanski@gmail.com
-* ⚡ Fun fact: I have Hungarian Vizsla, It's fun and it makes me fun and happy!
 * 😄 Do you want to play? - https://yuchormanski.github.io
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuchormanski&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
