@@ -49,4 +49,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862) -->
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862&width=600&count=3)
+<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862&width=600&count=3) -->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11132923862&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
