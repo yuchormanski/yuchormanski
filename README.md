@@ -32,18 +32,19 @@ Here are some ideas to get you started:
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yuchormanski&width=600)](https://github.com/yuchormanski/github-profile-trophy) -->
 
-<div> <!-- https://devicon.dev/ -->
+<!--<div> https://devicon.dev/
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="6%"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="6%"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="6%"/>			
-   <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="6%"/>         
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="6%"/>         
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="6%"/>         
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="6%"/>        
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="6%"/>     
-      <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="6%"/> -->		
-      <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="6%"/> -->
-</div>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="6%"/> 
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="6%"/> 
+</div>  -->
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,nodejs,linkedin)](https://skillicons.dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
