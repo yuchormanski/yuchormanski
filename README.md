@@ -44,7 +44,7 @@ Here are some ideas to get you started:
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="6%"/> 
 </div>  -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,nodejs,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linkedin,nodejs,vscode)](https://skillicons.dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
