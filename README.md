@@ -43,10 +43,11 @@ Here are some ideas to get you started:
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="6%"/> 
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="6%"/> 
 </div>  -->
-![mypic]([mypic.png](https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://user-images.githubusercontent.com/693307/221295444-8154991b-c91a-4cfa-b451-a8d85b4537bb.png)){:height="100px" width="100px"}.
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linkedin,nodejs,vscode)](https://skillicons.dev)
 
+![css80](https://user-images.githubusercontent.com/693307/221297087-37c5defa-187e-4470-8624-de290b7ca150.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
