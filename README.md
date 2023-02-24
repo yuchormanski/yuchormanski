@@ -56,8 +56,6 @@ Here are some ideas to get you started:
 ![linkdIn80](https://user-images.githubusercontent.com/693307/221297599-32fe25b2-b94a-4067-bd78-15ee59468245.png)
 
 
-https://user-images.githubusercontent.com/693307/221297087-37c5defa-187e-4470-8624-de290b7ca150.png)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862) -->
