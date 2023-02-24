@@ -43,6 +43,7 @@ Here are some ideas to get you started:
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="6%"/> 
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="6%"/> 
 </div>  -->
+![css](https://user-images.githubusercontent.com/693307/221295444-8154991b-c91a-4cfa-b451-a8d85b4537bb.png)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linkedin,nodejs,vscode)](https://skillicons.dev)
 
