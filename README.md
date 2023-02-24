@@ -46,12 +46,15 @@ Here are some ideas to get you started:
 
 <!-- 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linkedin,nodejs,vscode)](https://skillicons.dev) -->
+
+
 ![js80](https://user-images.githubusercontent.com/693307/221297570-2646a594-3c8a-44de-b8d5-e65a2928ac55.png)
-![linkdIn80](https://user-images.githubusercontent.com/693307/221297599-32fe25b2-b94a-4067-bd78-15ee59468245.png)
+![html80](https://user-images.githubusercontent.com/693307/221298289-05932c77-c381-48e9-8250-55bbbf8302a1.png)
+![css80](https://user-images.githubusercontent.com/693307/221298172-07e8d45d-2a83-417f-9865-93c6618af0b4.png)
 ![node80](https://user-images.githubusercontent.com/693307/221297611-ae01b2f6-bae3-44d5-8491-176a690c4915.png)
 ![VSC80](https://user-images.githubusercontent.com/693307/221297622-8a2639c5-e254-41c4-9eb1-ad22b2355d14.png)
-![css80](![html80](https://user-images.githubusercontent.com/693307/221297553-14c3f71a-3f56-4963-bb8b-d42f7702721d.png)
-![html](https://user-images.githubusercontent.com/693307/221297730-52087e1e-2821-4592-895c-881f0758c09f.png)
+![linkdIn80](https://user-images.githubusercontent.com/693307/221297599-32fe25b2-b94a-4067-bd78-15ee59468245.png)
+
 
 https://user-images.githubusercontent.com/693307/221297087-37c5defa-187e-4470-8624-de290b7ca150.png)
 
