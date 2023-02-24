@@ -44,10 +44,16 @@ Here are some ideas to get you started:
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="6%"/> 
 </div>  -->
 
+<!-- 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linkedin,nodejs,vscode)](https://skillicons.dev) -->
+![js80](https://user-images.githubusercontent.com/693307/221297570-2646a594-3c8a-44de-b8d5-e65a2928ac55.png)
+![linkdIn80](https://user-images.githubusercontent.com/693307/221297599-32fe25b2-b94a-4067-bd78-15ee59468245.png)
+![node80](https://user-images.githubusercontent.com/693307/221297611-ae01b2f6-bae3-44d5-8491-176a690c4915.png)
+![VSC80](https://user-images.githubusercontent.com/693307/221297622-8a2639c5-e254-41c4-9eb1-ad22b2355d14.png)
+![css80](![html80](https://user-images.githubusercontent.com/693307/221297553-14c3f71a-3f56-4963-bb8b-d42f7702721d.png)
+![html](https://user-images.githubusercontent.com/693307/221297730-52087e1e-2821-4592-895c-881f0758c09f.png)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linkedin,nodejs,vscode)](https://skillicons.dev)
-
-![css80](https://user-images.githubusercontent.com/693307/221297087-37c5defa-187e-4470-8624-de290b7ca150.png)
+https://user-images.githubusercontent.com/693307/221297087-37c5defa-187e-4470-8624-de290b7ca150.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
