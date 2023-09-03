@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ![VSC80](https://user-images.githubusercontent.com/693307/221297622-8a2639c5-e254-41c4-9eb1-ad22b2355d14.png)
 ![linkdIn80](https://user-images.githubusercontent.com/693307/221297599-32fe25b2-b94a-4067-bd78-15ee59468245.png) -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,angular,ts,firebase,nodejs,html,css,vscode,vercel,linkedin,ps,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,angular,ts,react,firebase,nodejs,html,css,vscode,vercel,linkedin,ps,wordpress)](https://skillicons.dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
