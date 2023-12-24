@@ -35,8 +35,7 @@ Hey there! I'm Nikolay Yuchormanski 👋, a junior enthusiast diving into the wo
 
 ## 🌟 [Custom projects with demo - view full list with detais](https://github.com/yuchormanski/ReadMeFIles/blob/main/projects.md) 🌟
 
-- <img src="![image](https://github.com/yuchormanski/yuchormanski/assets/693307/7d10b532-13d2-4ee7-a7b5-21dfe88d6409)
-" width="15" height ="15">
+- <img src="<img data-v-6be23ab2="" srcset="https://img.icons8.com/?size=256&amp;id=7NgOeUFc7_nq&amp;format=png 1x, https://img.icons8.com/?size=512&amp;id=7NgOeUFc7_nq&amp;format=png 2x" width="15" height ="15">
   <a href="https://github.com/yuchormanski/React-BMX-Project">Bicycle Management eXtreme- BMX</a>
 - <img src="image-4.png" width="15" height ="15"> 
   <a href="https://github.com/yuchormanski/Greader">Greader</a> - <a href="https://greader.vercel.app/home">Demo</a>
