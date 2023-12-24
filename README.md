@@ -1,4 +1,4 @@
-<!-- 
+<!--
 https://github-readme-streak-stats.herokuapp.com/demo/
 -->
 
@@ -6,7 +6,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/
 **yuchormanski/yuchormanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<! --### Hi there 👋 
+<! --### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,56 +17,62 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![MyLogo](https://github.com/yuchormanski/yuchormanski/blob/20cfd5405b09fbd479aab6489012d905f13d5d18/GitHubLogo2.png)
 
-* 👋 Hi, I’m Nikolay Yuchormanski
-* 👀 I’m interested in Front-end web development, Road cycling, Music
-* 🌱 I’m currently learning ReactJS in SoftUni.
-* 💞️ I’m looking to collaborate on Web / JS projects.
-* 📫 How to reach me: my email address is yuchormanski@gmail.com
-* 😄 Do you want to play? - https://yuchormanski.github.io
+# Welcome
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuchormanski&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski&show_icons=true&theme=nord&hide_border=true)
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yuchormanski&width=600)](https://github.com/yuchormanski/github-profile-trophy) -->
-
-<!--<div> https://devicon.dev/
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="6%"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="6%"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="6%"/>			
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="6%"/>         
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="6%"/>         
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="6%"/>        
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="6%"/>     
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="6%"/> 
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="6%"/> 
-</div>  -->
-
-<!-- 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linkedin,nodejs,vscode)](https://skillicons.dev) -->
-
-# "Design is not just what it looks like and feels like. Design is how it works"
-     Steve Jobs
-
-
-<!-- ![js80](https://user-images.githubusercontent.com/693307/221297570-2646a594-3c8a-44de-b8d5-e65a2928ac55.png)
-![html80](https://user-images.githubusercontent.com/693307/221298289-05932c77-c381-48e9-8250-55bbbf8302a1.png)
-![css80](https://user-images.githubusercontent.com/693307/221298172-07e8d45d-2a83-417f-9865-93c6618af0b4.png)
-![node80](https://user-images.githubusercontent.com/693307/221297611-ae01b2f6-bae3-44d5-8491-176a690c4915.png)
-![VSC80](https://user-images.githubusercontent.com/693307/221297622-8a2639c5-e254-41c4-9eb1-ad22b2355d14.png)
-![linkdIn80](https://user-images.githubusercontent.com/693307/221297599-32fe25b2-b94a-4067-bd78-15ee59468245.png) -->
+Hey there! I'm Nikolay Yuchormanski 👋, a junior enthusiast diving into the world of web development. Currently honing my JavaScript skills, I bring a fresh perspective with a passion for coding.
 
 [![My Skills](https://skillicons.dev/icons?i=js,angular,ts,react,firebase,nodejs,html,css,vscode,vercel,linkedin,ps,wordpress)](https://skillicons.dev)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🌟 [Custom projects with demo - view full list with detais](https://github.com/yuchormanski/ReadMeFIles/blob/main/projects.md) 🌟
+
+- <img src="image-3.png" width="15" height ="15">
+  <a href="https://github.com/yuchormanski/React-BMX-Project">Bicycle Management eXtreme- BMX</a>
+- <img src="image-4.png" width="15" height ="15"> 
+  <a href="https://github.com/yuchormanski/Greader">Greader</a> - <a href="https://greader.vercel.app/home">Demo</a>
+- <img src="image-5.png" width="15" height ="15"> 
+  <a href="https://github.com/yuchormanski/Udemy_courses/tree/main/Angular/clips">Clipz</a> - <a href="https://clips-udemy-yucho.vercel.app/">Demo</a>
+- <img src="image-6.png" width="15" height ="15"> 
+  <a href="https://github.com/yuchormanski/Udemy_courses/tree/main/HTML-CSS">Omnifood</a> - <a href="https://omnifood-yucho.netlify.app/">Demo</a>
+- <img src="image-8.png" width="15" height ="15"> 
+  <a href="https://github.com/yuchormanski/WeatherNow">WeatherNow</a> - <a href="https://yuchormanski.free.bg/WeatherNow/">Demo</a>
+- <img src="https://github.com/yuchormanski/yuchormanski.github.io/assets/693307/65297efe-4674-4ca8-8aff-23092df47f0f" width="15" height ="15"> 
+  <a href="https://github.com/yuchormanski/yuchormanski.github.io">Bulls and Cows</a> - <a href="https://yuchormanski.github.io">Demo</a>
+- <img src="image-9.png" width="15" height ="15"> <a href="https://github.com/yuchormanski/reactions">Reactions - Let me Help</a> - <a href="https://get-reactions.vercel.app/">Demo</a>
+- <img src="image-10.png" width="15" height ="15"> <a href="https://github.com/yuchormanski/OnlyVideo?tab=readme-ov-file">Only video</a> - <a href="https://yuchormanski.free.bg/onlyvideo/">Demo</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuchormanski&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski&show_icons=true&theme=nord&hide_border=true) -->
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yuchormanski&width=600)](https://github.com/yuchormanski/github-profile-trophy) -->
+
+<!-- - "Design is not just what it looks like and feels like. Design is how it works"
+  - Steve Jobs -->
+
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862) -->
+
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862&width=600&count=3) -->
+
+## 🎓 Certificates
+
+- [Programming Basics JS - May 2022](/Programming%20Basics%20-%20May%202022%20-%20Certificate.png)
+- [Programming Fundamentals JS - September 2022](/Programming%20Fundamentals%20with%20JavaScript%20-%20September%202022%20-%20Certificate.png)
+- [JS Advanced - January 2023](/JS%20Advanced%20-%20January%202023%20-%20Certificate.png)
+- [JS Applications - February 2023](/JS%20Applications%20-%20February%202023%20-%20Certificate.png)
+- [JS Back-End - May 2023](/JS%20Back-End%20-%20May%202023%20-%20Certificate.png)
+- [Angular - June 2023](/Angular%20-%20June%202023%20-%20Certificate.jpg)
+- [HTML & CSS - September 2023](/HTML%20&%20CSS%20-%20September%202023%20-%20Certificate.png)
+- [ReactJS - October 2023](/ReactJS%20-%20October%202023%20-%20Certificate.png)
+- [Zero to Mastery Angular - August 2023](/Udemy-Complete%20Angular%20Developer%20in%202023%20Zero%20to%20Mastery.jpg)
+- [Responsive Real-World Websites with HTML and CSS](/Udemy%20-%20Build%20Responsive%20Real-World%20Websites%20with%20HTML%20and%20CSS.jpg)
+
+## In Love with the Music
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11132923862&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![](https://komarev.com/ghpvc/?username=yuchormanski&color=dc143c&style=plastic&label=Profile+views)
-
