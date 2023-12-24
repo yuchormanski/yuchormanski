@@ -28,6 +28,11 @@ Hey there! I'm Nikolay Yuchormanski 👋, a junior enthusiast diving into the wo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<blockquote style="width: 600px">
+<h3>"Design is not just what it looks like and feels like. Design is how it works"</h3>
+<p style="text-align: right"> - Steve Jobs</p>
+</blockquote>
+
 ## 🌟 [Custom projects with demo - view full list with detais](https://github.com/yuchormanski/ReadMeFIles/blob/main/projects.md) 🌟
 
 - <img src="image-3.png" width="15" height ="15">
@@ -62,10 +67,7 @@ user=11132923862&width=600&count=3) -->
 <!-- # "Design is not just what it looks like and feels like. Design is how it works"
      Steve Jobs -->
 
-<blockquote style="width: 600px">
-<h3>"Design is not just what it looks like and feels like. Design is how it works"</h3>
-<p style="text-align: right"> - Steve Jobs</p>
-</blockquote>
+
 
 ## 🎓 Certificates
 
