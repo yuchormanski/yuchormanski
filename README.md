@@ -35,20 +35,14 @@ Hey there! I'm Nikolay Yuchormanski 👋, a junior enthusiast diving into the wo
 
 ## 🌟 [Custom projects with demo - view full list with detais](https://github.com/yuchormanski/ReadMeFIles/blob/main/projects.md) 🌟
 
-- <img src="<img data-v-6be23ab2="" srcset="https://img.icons8.com/?size=256&amp;id=7NgOeUFc7_nq&amp;format=png 1x, https://img.icons8.com/?size=512&amp;id=7NgOeUFc7_nq&amp;format=png 2x" width="15" height ="15">
-  <a href="https://github.com/yuchormanski/React-BMX-Project">Bicycle Management eXtreme- BMX</a>
-- <img src="image-4.png" width="15" height ="15"> 
-  <a href="https://github.com/yuchormanski/Greader">Greader</a> - <a href="https://greader.vercel.app/home">Demo</a>
-- <img src="image-5.png" width="15" height ="15"> 
-  <a href="https://github.com/yuchormanski/Udemy_courses/tree/main/Angular/clips">Clipz</a> - <a href="https://clips-udemy-yucho.vercel.app/">Demo</a>
-- <img src="image-6.png" width="15" height ="15"> 
-  <a href="https://github.com/yuchormanski/Udemy_courses/tree/main/HTML-CSS">Omnifood</a> - <a href="https://omnifood-yucho.netlify.app/">Demo</a>
-- <img src="image-8.png" width="15" height ="15"> 
-  <a href="https://github.com/yuchormanski/WeatherNow">WeatherNow</a> - <a href="https://yuchormanski.free.bg/WeatherNow/">Demo</a>
-- <img src="https://github.com/yuchormanski/yuchormanski.github.io/assets/693307/65297efe-4674-4ca8-8aff-23092df47f0f" width="15" height ="15"> 
-  <a href="https://github.com/yuchormanski/yuchormanski.github.io">Bulls and Cows</a> - <a href="https://yuchormanski.github.io">Demo</a>
-- <img src="image-9.png" width="15" height ="15"> <a href="https://github.com/yuchormanski/reactions">Reactions - Let me Help</a> - <a href="https://get-reactions.vercel.app/">Demo</a>
-- <img src="image-10.png" width="15" height ="15"> <a href="https://github.com/yuchormanski/OnlyVideo?tab=readme-ov-file">Only video</a> - <a href="https://yuchormanski.free.bg/onlyvideo/">Demo</a>
+- <a href="https://github.com/yuchormanski/React-BMX-Project">Bicycle Management eXtreme- BMX</a>
+- <a href="https://github.com/yuchormanski/Greader">Greader</a> - <a href="https://greader.vercel.app/home">Demo</a>
+- <a href="https://github.com/yuchormanski/Udemy_courses/tree/main/Angular/clips">Clipz</a> - <a href="https://clips-udemy-yucho.vercel.app/">Demo</a>
+- <a href="https://github.com/yuchormanski/Udemy_courses/tree/main/HTML-CSS">Omnifood</a> - <a href="https://omnifood-yucho.netlify.app/">Demo</a>
+- <a href="https://github.com/yuchormanski/WeatherNow">WeatherNow</a> - <a href="https://yuchormanski.free.bg/WeatherNow/">Demo</a>
+- <a href="https://github.com/yuchormanski/yuchormanski.github.io">Bulls and Cows</a> - <a href="https://yuchormanski.github.io">Demo</a>
+- <a href="https://github.com/yuchormanski/reactions">Reactions - Let me Help</a> - <a href="https://get-reactions.vercel.app/">Demo</a>
+- <a href="https://github.com/yuchormanski/OnlyVideo?tab=readme-ov-file">Only video</a> - <a href="https://yuchormanski.free.bg/onlyvideo/">Demo</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuchormanski&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
