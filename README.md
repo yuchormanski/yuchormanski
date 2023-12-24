@@ -47,6 +47,9 @@ Here are some ideas to get you started:
 <!-- 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linkedin,nodejs,vscode)](https://skillicons.dev) -->
 
+# "Design is not just what it looks like and feels like. Design is how it works"
+     Steve Jobs
+
 
 <!-- ![js80](https://user-images.githubusercontent.com/693307/221297570-2646a594-3c8a-44de-b8d5-e65a2928ac55.png)
 ![html80](https://user-images.githubusercontent.com/693307/221298289-05932c77-c381-48e9-8250-55bbbf8302a1.png)
