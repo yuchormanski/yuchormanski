@@ -56,7 +56,16 @@ Hey there! I'm Nikolay Yuchormanski 👋, a junior enthusiast diving into the wo
 
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862) -->
 
-<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862&width=600&count=3) -->
+<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?
+user=11132923862&width=600&count=3) -->
+
+<!-- # "Design is not just what it looks like and feels like. Design is how it works"
+     Steve Jobs -->
+
+<blockquote style="width: 600px">
+<h3>"Design is not just what it looks like and feels like. Design is how it works"</h3>
+<p style="text-align: right"> - Steve Jobs</p>
+</blockquote>
 
 ## 🎓 Certificates
 
