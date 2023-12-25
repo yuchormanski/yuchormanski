@@ -23,6 +23,13 @@ Here are some ideas to get you started:
 # Welcome
 
 ### Hey there! I'm Nikolay Yuchormanski 👋, a junior enthusiast diving into the world of web development. Currently honing my JavaScript skills, I bring a fresh perspective with a passion for coding.
+<br/>
+
+
+### 📞 Let's Connect
+- Email: yuchormanski@gmail.com
+- LinkedIn: <a href="www.linkedin.com/in/nikolay-yuchormanski-b34975255" target="_blank">Nikolay Yuchormanski</a>
+
 
 &nbsp;
 
