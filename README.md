@@ -43,10 +43,14 @@ Hey there! I'm Nikolay Yuchormanski 👋, a junior enthusiast diving into the wo
 - <a href="https://github.com/yuchormanski/yuchormanski.github.io">Bulls and Cows</a> - <a href="https://yuchormanski.github.io">Demo</a>
 - <a href="https://github.com/yuchormanski/reactions">Reactions - Let me Help</a> - <a href="https://get-reactions.vercel.app/">Demo</a>
 - <a href="https://github.com/yuchormanski/OnlyVideo?tab=readme-ov-file">Only video</a> - <a href="https://yuchormanski.free.bg/onlyvideo/">Demo</a>
+- <a href="https://github.com/yuchormanski/gears">Gears</a> - <a href="http://yuchormanski.free.bg/gears/">Demo</a>
+- <a href="https://github.com/yuchormanski/Multiplication-Table">Multiplication-Table</a> - <a href="http://yuchormanski.free.bg/Tables%20v0.2/1X1.html">Demo</a>
+- <a href="https://github.com/yuchormanski/GalowsPole">GalowsPole</a> - <a href="http://yuchormanski.free.bg/galows/">Demo</a>
+- <a href="https://github.com/yuchormanski/MemoryGame">MemoryGame</a> - <a href="https://yuchormanski.free.bg/MemoryGame/">Demo</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuchormanski&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski&show_icons=true&theme=nord&hide_border=true) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski&show_icons=true&theme=nord&hide_border=true) -->http://yuchormanski.free.bg/galows/
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yuchormanski&width=600)](https://github.com/yuchormanski/github-profile-trophy) -->
 
