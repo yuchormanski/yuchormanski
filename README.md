@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![MyLogo](https://github.com/yuchormanski/yuchormanski/blob/20cfd5405b09fbd479aab6489012d905f13d5d18/GitHubLogo2.png)
-
+-->
 # Welcome
 
 Hey there! I'm Nikolay Yuchormanski 👋, a junior enthusiast diving into the world of web development. Currently honing my JavaScript skills, I bring a fresh perspective with a passion for coding.
