@@ -47,6 +47,9 @@ Hey there! I'm Nikolay Yuchormanski 👋, a junior enthusiast diving into the wo
 - <a href="https://github.com/yuchormanski/Multiplication-Table">Multiplication-Table</a> - <a href="http://yuchormanski.free.bg/Tables%20v0.2/1X1.html">Demo</a>
 - <a href="https://github.com/yuchormanski/GalowsPole">GalowsPole</a> - <a href="http://yuchormanski.free.bg/galows/">Demo</a>
 - <a href="https://github.com/yuchormanski/MemoryGame">MemoryGame</a> - <a href="https://yuchormanski.free.bg/MemoryGame/">Demo</a>
+- <a href="https://github.com/yuchormanski/">Sudomu</a> - <a href="https://yuchormanski.free.bg/sudomu/">Demo</a>
+- <a href="https://github.com/yuchormanski/Questions">Questions</a> - <a href="https://yuchormanski.free.bg/Questions/">Demo</a>
+- <a href="https://github.com/yuchormanski/">Timer</a> - <a href="https://yuchormanski.free.bg/Timer/">Demo</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuchormanski&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
