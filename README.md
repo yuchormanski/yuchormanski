@@ -22,12 +22,15 @@ Here are some ideas to get you started:
 -->
 # Welcome
 
-Hey there! I'm Nikolay Yuchormanski 👋, a junior enthusiast diving into the world of web development. Currently honing my JavaScript skills, I bring a fresh perspective with a passion for coding.
+### Hey there! I'm Nikolay Yuchormanski 👋, a junior enthusiast diving into the world of web development. Currently honing my JavaScript skills, I bring a fresh perspective with a passion for coding.
+
+&nbsp;
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,angular,ts,react,firebase,nodejs,html,css,vscode,vercel,linkedin,ps,wordpress)](https://skillicons.dev)
-
+<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<br/><br/>
 <blockquote style="width: 600px">
 <h3>"Design is not just what it looks like and feels like. Design is how it works"</h3>
 <p style="text-align: right"> - Steve Jobs</p>
