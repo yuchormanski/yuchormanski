@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### 📞 Let's Connect
 - Email: yuchormanski@gmail.com
-- LinkedIn: <a href="www.linkedin.com/in/nikolay-yuchormanski-b34975255" target="_blank">Nikolay Yuchormanski</a>
+- LinkedIn: <a href="www.linkedin.com/in/nikolay-yuchormanski-b34975255">Nikolay Yuchormanski</a>
 
 
 &nbsp;
