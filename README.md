@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 # Welcome
 
 ### Hey there! 
-### I'm Nikolay Yuchormanski 👋, a junior enthusiast diving into the world of web development. Currently honing my JavaScript skills, I bring a fresh perspective with a passion for coding.
+### I'm Nikolay Yuchormanski 👋, a junior enthusiast diving into the world of web development. Currently honing my JavaScript and React.JS skills, I bring a fresh perspective with a passion for coding.
 <br/>
 
 
