@@ -36,8 +36,14 @@ Here are some ideas to get you started:
 
 &nbsp;
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,js,angular,ts,mongodb,firebase,nodejs,html,css,rust,wasm,vscode,github,vercel,linkedin,ps,wordpress" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,angular,ts,firebase,nodejs,html,css,vscode,vercel,linkedin,ps,wordpress)](https://skillicons.dev)
+
+<!--[![My Skills](https://skillicons.dev/icons?i=react,js,angular,ts,firebase,nodejs,html,css,vscode,vercel,linkedin,ps,wordpress&perline=3)](https://skillicons.dev)-->
 <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
