@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 - <a href="https://github.com/yuchormanski/Multiplication-Table">Multiplication-Table</a> - <a href="http://yuchormanski.free.bg/Tables%20v0.2/1X1.html">Demo</a>
 - <a href="https://github.com/yuchormanski/GalowsPole">GalowsPole</a> - <a href="http://yuchormanski.free.bg/galows/">Demo</a>
 - <a href="https://github.com/yuchormanski/MemoryGame">MemoryGame</a> - <a href="https://yuchormanski.free.bg/MemoryGame/">Demo</a>
-- <a href="https://github.com/yuchormanski/">Sudomu</a> - <a href="https://yuchormanski.free.bg/sudomu/">Demo</a>
+- <a href="https://github.com/yuchormanski/Sudomu">Sudomu</a> - <a href="https://yuchormanski.free.bg/sudomu/">Demo</a>
 - <a href="https://github.com/yuchormanski/Questions">Questions</a> - <a href="https://yuchormanski.free.bg/Questions/">Demo</a>
 - <a href="https://github.com/yuchormanski/">Timer</a> - <a href="https://yuchormanski.free.bg/Timer/">Demo</a>
 
