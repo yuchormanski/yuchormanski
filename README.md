@@ -106,4 +106,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=yuchormanski&color=dc143c&style=plastic&label=Profile+views)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuchormanski)](https://github.com/anuraghazra/github-readme-stats)
+
