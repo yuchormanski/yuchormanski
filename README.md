@@ -43,13 +43,12 @@ Here are some ideas to get you started:
 </p>
 
 
-<!--[![My Skills](https://skillicons.dev/icons?i=react,js,angular,ts,firebase,nodejs,html,css,vscode,vercel,linkedin,ps,wordpress&perline=3)](https://skillicons.dev)-->
-<br/><br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/><br/>
+
 <blockquote style="width: 600px">
-<h3>"Design is not just what it looks like and feels like. Design is how it works"</h3>
-<p style="text-align: right"> - Steve Jobs</p>
+  <h3>"Design is not just what it looks like and feels like. Design is how it works"</h3>
+  <p style="text-align: right"> - Steve Jobs</p>
 </blockquote>
 
 ## 🌟 [Custom projects with demo - view full list with detais](https://github.com/yuchormanski/ReadMeFIles/blob/main/projects.md) 🌟
@@ -70,25 +69,18 @@ Here are some ideas to get you started:
 - <a href="https://github.com/yuchormanski/Questions">Questions</a> - <a href="https://yuchormanski.free.bg/Questions/">Demo</a>
 - <a href="https://github.com/yuchormanski/">Timer</a> - <a href="https://yuchormanski.free.bg/Timer/">Demo</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuchormanski&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuchormanski&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski&show_icons=true&theme=nord&hide_border=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuchormanski&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski&show_icons=true&theme=nord&hide_border=true) -->http://yuchormanski.free.bg/galows/
+
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yuchormanski&width=600)](https://github.com/yuchormanski/github-profile-trophy) -->
 
-<!-- - "Design is not just what it looks like and feels like. Design is how it works"
-  - Steve Jobs -->
-
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862) -->
 
-<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?
-user=11132923862&width=600&count=3) -->
+<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11132923862&width=600&count=3) -->
 
-<!-- # "Design is not just what it looks like and feels like. Design is how it works"
-     Steve Jobs -->
 
 
 
