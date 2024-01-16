@@ -48,10 +48,11 @@ Here are some ideas to get you started:
 
 <blockquote style="width: 600px">
   <h3>"Design is not just what it looks like and feels like. Design is how it works"</h3>
-  <p style="text-align: right"> - Steve Jobs</p>
+  <p style="text-align: right"> - Steve Jobs</p
 </blockquote>
 
-## 🌟 [Custom projects with demo - view full list with detais](https://github.com/yuchormanski/ReadMeFIles/blob/main/projects.md) 🌟
+## 🌟 Custom projects 🌟
+- ###  🔗 [View full list with detais](https://github.com/yuchormanski/ReadMeFIles/blob/main/projects.md)
 
 - <a href="https://github.com/yuchormanski/React-BMX-Project">Bicycle Management eXtreme- BMX</a>
 - <a href="https://github.com/yuchormanski/Greader">Greader</a> - <a href="https://greader.vercel.app/home">Demo</a>
