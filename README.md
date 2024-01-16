@@ -89,16 +89,16 @@ Here are some ideas to get you started:
 
 ## 🎓 Certificates
 
-- [Programming Basics JS - May 2022](/Programming%20Basics%20-%20May%202022%20-%20Certificate.png)
-- [Programming Fundamentals JS - September 2022](/Programming%20Fundamentals%20with%20JavaScript%20-%20September%202022%20-%20Certificate.png)
-- [JS Advanced - January 2023](/JS%20Advanced%20-%20January%202023%20-%20Certificate.png)
-- [JS Applications - February 2023](/JS%20Applications%20-%20February%202023%20-%20Certificate.png)
-- [JS Back-End - May 2023](/JS%20Back-End%20-%20May%202023%20-%20Certificate.png)
+- [ReactJS - October 2023](/ReactJS%20-%20October%202023%20-%20Certificate.png)
+- [Responsive Real-World Websites with HTML and CSS](/Udemy%20-%20Build%20Responsive%20Real-World%20Websites%20with%20HTML%20and%20CSS.jpg)
+- [Zero to Mastery Angular - August 2023](/Udemy-Complete%20Angular%20Developer%20in%202023%20Zero%20to%20Mastery.jpg)
 - [Angular - June 2023](/Angular%20-%20June%202023%20-%20Certificate.jpg)
 - [HTML & CSS - September 2023](/HTML%20&%20CSS%20-%20September%202023%20-%20Certificate.png)
-- [ReactJS - October 2023](/ReactJS%20-%20October%202023%20-%20Certificate.png)
-- [Zero to Mastery Angular - August 2023](/Udemy-Complete%20Angular%20Developer%20in%202023%20Zero%20to%20Mastery.jpg)
-- [Responsive Real-World Websites with HTML and CSS](/Udemy%20-%20Build%20Responsive%20Real-World%20Websites%20with%20HTML%20and%20CSS.jpg)
+- [JS Back-End - May 2023](/JS%20Back-End%20-%20May%202023%20-%20Certificate.png)
+- [JS Applications - February 2023](/JS%20Applications%20-%20February%202023%20-%20Certificate.png)
+- [JS Advanced - January 2023](/JS%20Advanced%20-%20January%202023%20-%20Certificate.png)
+- [Programming Fundamentals JS - September 2022](/Programming%20Fundamentals%20with%20JavaScript%20-%20September%202022%20-%20Certificate.png)
+- [Programming Basics JS - May 2022](/Programming%20Basics%20-%20May%202022%20-%20Certificate.png)
 
 ## In Love with the Music
 
