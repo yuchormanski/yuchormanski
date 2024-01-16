@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 - <a href="https://github.com/yuchormanski/MemoryGame">MemoryGame</a> - <a href="https://yuchormanski.free.bg/MemoryGame/">Demo</a>
 - <a href="https://github.com/yuchormanski/Sudomu">Sudomu</a> - <a href="https://yuchormanski.free.bg/sudomu/">Demo</a>
 - <a href="https://github.com/yuchormanski/Questions">Questions</a> - <a href="https://yuchormanski.free.bg/Questions/">Demo</a>
-- <a href="https://github.com/yuchormanski/">Timer</a> - <a href="https://yuchormanski.free.bg/Timer/">Demo</a>
+- <a href="https://github.com/yuchormanski/">Timer</a> - <a href="https://yuchormanski.free.bg/Timer/" target="_blank">Demo</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski&show_icons=true&theme=nord&hide_border=true) 
 
