@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ## 🌟 Custom projects 🌟
 - ###  🔗 [View full list with detais](https://github.com/yuchormanski/ReadMeFIles/blob/main/projects.md)
 - 
-- <a href="https://github.com/yuchormanski/SoftuniBMX-Project">Bicycle Management eXtreme- BMX</a> - <a href="https://extreme-bmx.vercel.app/" target="_blank">Demo</a>
+- <a href="https://github.com/yuchormanski/SoftuniBMX-Project">Bicycle Management eXtreme- BMX</a>
 - <a href="https://github.com/yuchormanski/Greader">Greader</a> - <a href="https://greader.vercel.app/home">Demo</a>
 - <a href="https://github.com/yuchormanski/Udemy_courses/tree/main/Angular/clips">Clipz</a> - <a href="https://clips-udemy-yucho.vercel.app/">Demo</a>
 - <a href="https://github.com/yuchormanski/Udemy_courses/tree/main/HTML-CSS">Omnifood</a> - <a href="https://omnifood-yucho.netlify.app/">Demo</a>
