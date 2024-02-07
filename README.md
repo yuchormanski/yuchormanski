@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 </blockquote>
 
 ## 🌟 Custom projects 🌟
-- ###  🔗 [View full list with detais](https://github.com/yuchormanski/ReadMeFIles/blob/main/projects.md)
+ ### View full list with detais
+##### 🔗 [Link to projects description](https://github.com/yuchormanski/ReadMeFIles/blob/main/projects.md)
 - 
 - <a href="https://github.com/yuchormanski/SoftuniBMX-Project">Bicycle Management eXtreme- BMX</a>
 - <a href="https://github.com/yuchormanski/Greader">Greader</a> - <a href="https://greader.vercel.app/home">Demo</a>
