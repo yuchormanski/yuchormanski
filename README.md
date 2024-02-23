@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <blockquote style="width: 600px">
   <h3>"Design is not just what it looks like and feels like. Design is how it works"</h3>
-  <p style="text-align: right"> - Steve Jobs</p
+  <p style="text-align: right"> - Steve Jobs</p>
 </blockquote>
 
 ## 🌟 Custom projects 🌟
@@ -100,6 +100,11 @@ Here are some ideas to get you started:
 - [JS Advanced - January 2023](/JS%20Advanced%20-%20January%202023%20-%20Certificate.png)
 - [Programming Fundamentals JS - September 2022](/Programming%20Fundamentals%20with%20JavaScript%20-%20September%202022%20-%20Certificate.png)
 - [Programming Basics JS - May 2022](/Programming%20Basics%20-%20May%202022%20-%20Certificate.png)
+
+<blockquote style="width: 600px">
+  <h3>"Imagination is the limit"</h3>
+  <p style="text-align: right">heard from I.Papazov</p>
+</blockquote>
 
 ## In Love with the Music
 
