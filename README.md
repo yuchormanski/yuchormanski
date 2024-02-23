@@ -103,7 +103,9 @@ Here are some ideas to get you started:
 
 <blockquote style="width: 600px">
   <h3>"Imagination is the limit"</h3>
-  <p style="align: right">- I.Papazov</p>
+<!--   <p style="align: right"> -->
+  <p align="right">
+    - I.Papazov</p>
 </blockquote>
 
 ## In Love with the Music
