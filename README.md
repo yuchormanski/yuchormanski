@@ -101,11 +101,10 @@ Here are some ideas to get you started:
 - [Programming Fundamentals JS - September 2022](/Programming%20Fundamentals%20with%20JavaScript%20-%20September%202022%20-%20Certificate.png)
 - [Programming Basics JS - May 2022](/Programming%20Basics%20-%20May%202022%20-%20Certificate.png)
 
-<blockquote style="width: 600px">
+<blockquote style="width: 300px">
   <h3>"Imagination is the limit"</h3>
-<!--   <p style="align: right"> -->
-  <p align="right">
-    - I.Papazov</p>
+<!--   <p align="center"> -->
+  <p>- I.Papazov</p>
 </blockquote>
 
 ## In Love with the Music
