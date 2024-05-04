@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <blockquote style="width: 600px">
   <h3>"Design is not just what it looks like and feels like. Design is how it works"</h3>
-  <p style="text-align: right"> - Steve Jobs</p>
+  <p align="right"> - Steve Jobs</p>
 </blockquote>
 
 ## 🌟 Custom projects 🌟
@@ -71,6 +71,20 @@ Here are some ideas to get you started:
 - <a href="https://github.com/yuchormanski/Sudomu">Sudomu</a> - <a href="https://yuchormanski.free.bg/sudomu/">Demo</a>
 - <a href="https://github.com/yuchormanski/Questions">Questions</a> - <a href="https://yuchormanski.free.bg/Questions/">Demo</a>
 - <a href="https://github.com/yuchormanski/">Timer</a> - <a href="https://yuchormanski.free.bg/Timer/" target="_blank">Demo</a>
+
+<blockquote style="width: 300px">
+  <h3>"Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand."</h3>
+<!--   <p align="center"> -->
+ <p align="right"> Albert Einstein</p>
+</blockquote>
+
+<!--
+<blockquote style="width: 300px">
+  <h3>"Imagination is the limit"</h3>
+<p align="right"> I.Papazov</p>
+</blockquote>
+-->
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchormanski&show_icons=true&theme=nord&hide_border=true) 
 
@@ -102,11 +116,6 @@ Here are some ideas to get you started:
 - [Programming Fundamentals JS - September 2022](/Programming%20Fundamentals%20with%20JavaScript%20-%20September%202022%20-%20Certificate.png)
 - [Programming Basics JS - May 2022](/Programming%20Basics%20-%20May%202022%20-%20Certificate.png)
 
-<blockquote style="width: 300px">
-  <h3>"Imagination is the limit"</h3>
-<!--   <p align="center"> -->
-  <p>- I.Papazov</p>
-</blockquote>
 
 ## In Love with the Music
 
