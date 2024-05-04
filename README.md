@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchormanski&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <blockquote style="width: 600px">
-  <h3>"Design is not just what it looks like and feels like. Design is how it works"</h3>
+  <h3 align="center">"Design is not just what it looks like and feels like. Design is how it works"</h3>
   <p align="right"> - Steve Jobs</p>
 </blockquote>
 
@@ -73,14 +73,14 @@ Here are some ideas to get you started:
 - <a href="https://github.com/yuchormanski/">Timer</a> - <a href="https://yuchormanski.free.bg/Timer/" target="_blank">Demo</a>
 
 <blockquote style="width: 300px">
-  <h3>"Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand."</h3>
+  <h3 align="center">"Imagination is more important than knowledge. For knowledge is limited to all we now know and understand, while imagination embraces the entire world, and all there ever will be to know and understand."</h3>
 <!--   <p align="center"> -->
  <p align="right"> Albert Einstein</p>
 </blockquote>
 
 <!--
 <blockquote style="width: 300px">
-  <h3>"Imagination is the limit"</h3>
+  <h3 align="center">"Imagination is the limit"</h3>
 <p align="right"> I.Papazov</p>
 </blockquote>
 -->
