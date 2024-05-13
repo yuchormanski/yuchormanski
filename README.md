@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=react,vite,js,angular,ts,mongodb,firebase,nodejs,html,css,rust,wasm,vscode,github,vercel,linkedin,ps,wordpress" /> -->
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,ts,angular,nodejs,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,swift,ts,angular,nodejs,vscode,github" />
   </a>
 </p>
 
