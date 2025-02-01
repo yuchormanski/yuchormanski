@@ -20,12 +20,15 @@ Here are some ideas to get you started:
 
 ![MyLogo](https://github.com/yuchormanski/yuchormanski/blob/20cfd5405b09fbd479aab6489012d905f13d5d18/GitHubLogo2.png)
 -->
+
+<!--
 # Welcome
 
 ### Hey there! 
 ### I'm Nikolay Yuchormanski 👋, a junior enthusiast diving into the world of web development. Currently honing my JavaScript and React.JS skills, I bring a fresh perspective with a passion for coding.
 <br/>
-
+-->
+# Hey there! 
 
 ### 📞 Let's Connect
 - Email: yuchormanski@gmail.com
@@ -39,7 +42,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=react,vite,js,angular,ts,mongodb,firebase,nodejs,html,css,rust,wasm,vscode,github,vercel,linkedin,ps,wordpress" /> -->
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,swift,ts,angular,nodejs,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=swift,react,js,html,css,ts,angular,nodejs,vscode,github" />
   </a>
 </p>
 
